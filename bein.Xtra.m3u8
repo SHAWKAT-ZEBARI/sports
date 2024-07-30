@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+http://next.badinan.xyz:1935/nexttv/FHD/playlist.m3u8
+
+
+
+
